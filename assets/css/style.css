@@ -1,0 +1,96 @@
+/*GOOGLE FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+/*NAV*/
+
+nav{
+    background-color: #28A745;
+}
+.logo-cuppon-white{
+    width: 86px;
+    height: 25px;
+}
+
+/*CARD*/
+
+.card img{
+    
+    height: 180px;
+    background-size: cover;
+    background-position: center;
+}
+.card-title{
+    color: #212529;
+    font-weight: 300;
+    font-size: 20;
+}
+
+.card-text{
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.card-text.c2{
+    font-size: 13px;
+    border-bottom: solid 1px grey;
+}
+
+.precio{
+    display: inline-block;
+}
+
+.precio.pr1{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+
+}
+
+.precio.pr2{
+    color: #28A745;
+    font-size: 20px;
+    font-weight: 500; 
+}
+
+.info{
+    background-color: #28A745;
+    height: 280px;
+}
+
+.btn-custom{
+    font-weight: 500;
+    font-size: 16px;
+    width: 113px;
+    height: 40px;
+}
+
+
+footer{
+    height: px;
+}
+footer img{
+    width: 82px;
+    height: 24px;
+}
+
+footer .d-footer{
+    
+    font-weight: 300;
+    font-size: 16px;
+
+}
+ /*   
+    text-align: center;
+    width: 278px;
+    height: 38px;
+}*/
+
+.col-custom{
+    width: 278px;
+}
